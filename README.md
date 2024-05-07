@@ -1,3 +1,9 @@
+# .env file contains the environment firebase configuration (see firebase config)
+
+#
+
+##############################
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,66 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Compiled with warnings.
+
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/promise/promise] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/promise/promise] '
+
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/util/arrayiterator] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/util/arrayiterator] '
+
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/util/makeiterator] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/util/makeiterator] '
+
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/defineproperty] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/defineproperty] '
+
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/global] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/global] '
+
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/polyfill] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/polyfill] '
+
+[eslint]
+src/App.js
+Line 3:8: 'firebase' is defined but never used no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@firebase/auth/dist/auth.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/promise/promise] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/promise/promise] '
+
+WARNING in ./node_modules/@firebase/auth/dist/auth.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/util/arrayiterator] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/util/arrayiterator] '
+
+WARNING in ./node_modules/@firebase/auth/dist/auth.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/util/makeiterator] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:es6/util/makeiterator] '
+
+WARNING in ./node_modules/@firebase/auth/dist/auth.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/defineproperty] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/defineproperty] '
+
+WARNING in ./node_modules/@firebase/auth/dist/auth.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/global] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/global] '
+
+WARNING in ./node_modules/@firebase/auth/dist/auth.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/polyfill] ' file: Error: ENOENT: no such file or directory, open '/Users/hansriezebos/WebProjects/Firebase/Learn_firebase_core_with_react/recipesv2/firebase-recipesv2/node_modules/@firebase/auth/dist/ [synthetic:util/polyfill] '
+
+WARNING in [eslint]
+src/App.js
+Line 3:8: 'firebase' is defined but never used no-unused-vars
+
+webpack compiled with 7 warnings
+One of your dependencies, babel-preset-react-app, is importing the
+"@babel/plugin-proposal-private-property-in-object" package without
+declaring it in its dependencies. This is currently working because
+"@babel/plugin-proposal-private-property-in-object" is already in your
+node_modules folder for unrelated reasons, but it may break at any time.
+
+babel-preset-react-app is part of the create-react-app project, which
+is not maintianed anymore. It is thus unlikely that this bug will
+ever be fixed. Add "@babel/plugin-proposal-private-property-in-object" to
+your devDependencies to work around this error. This will make this message
+go away.
+# firebase-recipes
